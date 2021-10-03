@@ -1,0 +1,99 @@
+{
+    "service": [
+        {
+            "id": "01",
+            "title": "Graphic Design",
+            "discription": "The main purpose here is to make you able to use the graphic design tools and techniques in a professional way. Graphic Design helps to build the brand identity of a company. Thus it needs to be conceptual and unique to represent a company, brand or any kind of products or services. The module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start afresh.",
+            "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg"
+        },
+        {
+            "id": "02",
+            "title": "3D Animation Design",
+            "discription": "Modeling is generating 3D objects in a certain scene. The next phase is done by positioning and animating. And the last phase, rendering, is the output of the completed result. The techniques used in 3D Animation involves appearance sketching, appearance modeling, arena building, camera setup, texturing, alteration, bonding, and rendering. Cinema 4D, Autodesk MAYA & Autodesk 3ds Max are the names of some of the best 3D animation software.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSw5USBdskTrvimcD40B8p9finyvqVmlQBu192CpQ8jZpKpUv6eiC4phBQ6E0AkwkBXeE&usqp=CAU"
+        },
+        {
+            "id": "03",
+            "title": "Web Development",
+            "discription": "Web Development consists of two segments: front end development and backend development. Front-end Developers work with visual designs of a website and build the sites using code. The front end developer builds the structure of a website using HTML, then change the layout using CSS and sometimes uses javascript too. Besides Backend developers work with more advanced issues. They work with API (Application Programming Interfaces), CGI programs and sometimes script like PHP. Websites functionality is their main concern.",
+            "img": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg"
+        },
+        {
+            "id": "04",
+            "title": "App Development",
+            "discription": "With the world going mobile, the importance of apps is increasing day by day. App development hence refers to the creation of applications to be used on mobile devices. Today when we buy a smartphone or a tablet, we can see that it comes with some pre-installed apps for social media or searching or such other purposes. And if we can’t find what we are looking for, we just log on to the app store and download the things we need.",
+            "img": "https://image.freepik.com/free-vector/app-development-banner_33099-1720.jpg"
+        },
+        {
+            "id": "05",
+            "title": "Web Design",
+            "discription": "Web design means creating websites with a user-friendly structure and with an aesthetic approach. A web designers always think about the layout, color scheme and unique design of a website. But their task does not just end there. They also work hard to create a user-friendly navigation system. They also need to rank their websites and for that, they need to do some SEO tasks too.",
+            "img": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/which-web-design-platform-is-right-for-you-5e4d59fb941b9.png"
+        },
+        {
+            "id": "06",
+            "title": "UX/UI Design",
+            "discription": "This course UX & UI Design is designed for those people, who wants to design anything to keep users on first priority and working on to make them happy. In our course, we will guide you for complete website UI & Mobile UI based on User Experience. You will learn what is a user need, How can we solve user’s problem by web application & also by mobile application.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGoeLGb97_iklSLBkRbhNvCrJY0sn6Wji9EjT008-Y05YnXwdmJ47fmU51XwOp68lkU0&usqp=CAU"
+        },
+        {
+            "id": "07",
+            "title": "Motion Graphics",
+            "discription": "To tell it briefly, motion graphics is the kind of graphics which has motion. For instance, have you seen the movie Avengers: Endgame? Or any other movie for that matter? Have you noticed the starting? There are some graphic images with background music. And from that the word “Marvel” comes on screen.",
+            "img": "https://i.ytimg.com/vi/kR5K1cPYl4I/maxresdefault.jpg"
+        },
+        {
+            "id": "08",
+            "title": "Digital Marketing",
+            "discription": "Our digital marketing course will not only enable you to have a good understanding of the fundamentals of digital marketing but also generate a strategy for career growth.To help you understand the market behavior and formulate a productive approach, we have covered all the aspects of digital marketing in our course. After completing the course, you will have an in-depth understanding of SEO & Affiliate Marketing and how to envision the market scenarios and use them to good effect.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzpOBncnqUVAyY36cxRFqqIs3fs-xgI9u2O6kAP8BUZlBR0OChI1b_-RgC_j67Aukg394&usqp=CAU"
+        },
+        {
+            "id": "09",
+            "title": "Cyber Security",
+            "discription": "When the word ‘hacker’ enters into our ears, we may get scared! But don’t worry. Not all hackers are dangerous. If you have a knack for security loopholes and possible server threats, you are already familiar with the term “Ethical Hacker”. It’s a system where a company appoints hackers who try to find out the possible security threats and then remove and ensuring the companies security and also protect from outside attackers. Large companies having big servers with massive collection of data are constantly looking for such ethical hackers to make them unexploited.",
+            "img": "https://s3.amazonaws.com/utep-uploads/wp-content/uploads/unr/2020/07/27160408/unr-mscy-cybersecurity-careers-image.jpg"
+        }
+    ],
+    "teachersTitle": {
+        "title": "AWESOME TEACHERS",
+        "discription": "Here are the most popular teachers in our organization"
+    },
+    "teachers": [
+        {
+            "id": "11",
+            "name": "JONE HARY",
+            "discription": "He is highly skilled in imparting web development education to the students",
+            "img": "https://media.istockphoto.com/photos/smiling-man-outdoors-in-the-city-picture-id1179420343?k=20&m=1179420343&s=612x612&w=0&h=G2UGMVSzAXGAQs3pFZpvWlHNRAzwPIWIVtSOxZHsEuc="
+        },
+        {
+            "id": "12",
+            "name": "PETER MITCHLLE",
+            "discription": "He is highly skilled in imparting App development education to the students",
+            "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg"
+        },
+        {
+            "id": "13",
+            "name": "JOHNATHAN DOE",
+            "discription": "He is highly skilled in imparting Graphic Design education to the students",
+            "img": "https://i2.wp.com/www.walkingtheshoreline.com/wp-content/uploads/2016/04/Takes-To-Be-A-Gentleman.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Robert Elijah",
+            "discription": "He is highly skilled in imparting 3D Animation Design education to the students",
+            "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+        }
+    ],
+    "about": {
+        "id": "21",
+        "title": "About Us",
+        "discription": "It is an institution where empowering the community for an excellent standard of learning is what we desire. We endeavor for the continuous improvement of our leaders who will work for constructing a better future. The institute is dedicated to serving the quality training programs under ISO 9001: 2015 certification which remarks us in the IT world. We will continue to share our knowledge for contributing to the success of individuals and to serve society with the best interest.We are committed to providing our students with a platform where superiority is the mantra. We nurture the young talent by sharing knowledge, providing supports in learning techniques, co-operating them for international standard projects, making successful freelancers and driving our youth towards a world of entrepreneurship and thus reducing inequalities. Our culture is important to us and our team of experts drives our culture. The skilled human resource make our deliverables valuable that really helps us to set our standard internationally. In this fast-paced digital world, achieving in career and reaching in targeted goal is depending on the proper execution of planning, implementing and sustaining changes. So getting there with an institution like us will be your wise choice. Your great experience of learning influences our way of training and thus we serve our students and engage with our commitments. Here we invite you to come and join us to have a change in the result of your life and thus we would be grateful to know you and to strengthen a long-lasting relationship.",
+        "img": ""
+    },
+    "contact": {
+        "title": "HAVE QUESTION",
+        "discription": "You can contact us by sending your name, email address and your comments to us.",
+        "img": "https://cdn.pixabay.com/photo/2017/12/02/14/38/contact-us-2993000__340.jpg"
+    }
+}
