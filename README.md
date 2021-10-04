@@ -1,6 +1,6 @@
 # Getting Started with Learner.com
 
-This project was react and bootstrapped with [https://learner8.netlify.app/contacts]
+This project was react and bootstrapped with [https://learner8.netlify.app/]
 
 # The advantage of this website
 
