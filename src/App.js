@@ -11,7 +11,9 @@ import ServiceMain from './component/ServiceMain/ServiceMain';
 function App() {
   return (
     <div className="App">
+      {/* Here is all router rendered */}
       <Router>
+        {/* Here is Header Component */}
         <Header></Header>
         <Switch>
           <Route exact path="/">
@@ -33,6 +35,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        {/* Here is Footer Component */}
         <Footer></Footer>
       </Router>
     </div>

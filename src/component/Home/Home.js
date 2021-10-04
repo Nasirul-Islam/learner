@@ -1,20 +1,16 @@
 import React from 'react';
-import { useEffect } from 'react';
-import { useState } from 'react';
+import useAppdata from '../../hooks/useAppdata';
 import Services from '../Services/Services';
 import Teacher from '../Teacher/Teacher';
 
 const Home = () => {
-    const [datas, setDatas] = useState();
-    useEffect(() => {
-        fetch('./data.JSON')
-            .then(res => res.json())
-            .then(data => setDatas(data.service))
-    }, [])
+    const [datas] = useAppdata();
     return (
         <div>
-            <Services datas={datas}></Services>
-            <Teacher datas={datas}></Teacher>
+            {/* Here is Services Component */}
+            <Services datas={datas?.service}></Services>
+            {/* Here is Teacher Component */}
+            <Teacher datas={datas?.teachers}></Teacher>
         </div>
     );
 };

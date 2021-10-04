@@ -1,20 +1,14 @@
 import React from 'react';
-import { useEffect } from 'react';
-import { useState } from 'react';
 import { Container } from 'react-bootstrap';
+import useAppdata from '../../hooks/useAppdata';
 
 const AboutMain = (props) => {
-    const [datas, setDatas] = useState();
-    useEffect(() => {
-        fetch('./data.JSON')
-            .then(res => res.json())
-            .then(data => setDatas(data.about))
-    }, [])
+    const [datas] = useAppdata();
     return (
         <Container>
-            <h1 className="mt-2 mb-4">{datas?.title}</h1>
+            <h1 className="mt-2 mb-4">{datas?.about?.title}</h1>
             <hr />
-            <h5 className="mb-4">{datas?.discription}</h5>
+            <h5 className="mb-4">{datas?.about?.discription}</h5>
         </Container>
     );
 };

@@ -1,18 +1,9 @@
 import React from 'react';
-import { useEffect } from 'react';
-import { useState } from 'react';
 import { Container, Row } from 'react-bootstrap';
 import SIr from '../Sir/SIr';
 
-
 const Teacher = (props) => {
-    const [datas, setDatas] = useState();
-    useEffect(() => {
-        fetch('./data.JSON')
-            .then(res => res.json())
-            .then(data => setDatas(data.teachers))
-    }, [])
-    console.log(datas)
+    const { datas } = props
     return (
         <div>
             <Container className="my-5">
