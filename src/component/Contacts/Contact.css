@@ -1,0 +1,10 @@
+.contactField {
+    border: none;
+}
+.contactField input, textarea{
+    outline: none;
+    border: none;
+    border-bottom: 3px solid goldenrod;
+    margin: 5px 0;
+    padding: 10px;
+}

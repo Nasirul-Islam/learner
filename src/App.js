@@ -1,12 +1,12 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
-import About from './component/About/About';
+import AboutMain from './component/AboutMain/AboutMain';
 import Contacts from './component/Contacts/Contacts';
 import Footer from './component/Footer/Footer';
 import Header from './component/Header/Header';
 import Home from './component/Home/Home';
 import NotFound from './component/NotFound/NotFound';
-import Services from './component/Services/Services';
+import ServiceMain from './component/ServiceMain/ServiceMain';
 
 function App() {
   return (
@@ -21,10 +21,10 @@ function App() {
             <Home></Home>
           </Route>
           <Route exact path="/about">
-            <About></About>
+            <AboutMain></AboutMain>
           </Route>
           <Route exact path="/services">
-            <Services></Services>
+            <ServiceMain></ServiceMain>
           </Route>
           <Route exact path="/contacts">
             <Contacts></Contacts>
