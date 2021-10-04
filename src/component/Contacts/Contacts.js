@@ -18,7 +18,7 @@ const Contacts = () => {
                     </Card>
                 </Col>
                 <Col>
-                    <Card className="contactField">
+                    <Card style={{ border: "0" }} className="contactField">
                         <input type="text" placeholder="Type Your Name" />
                         <br />
                         <input type="text" placeholder="Type Your Email" />
