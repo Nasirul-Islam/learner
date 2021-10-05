@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <div>
             {/* Here is Services Component */}
-            <Services datas={datas?.service}></Services>
+            <Services datas={datas?.serviceMain}></Services>
             {/* Here is Teacher Component */}
             <Teacher datas={datas?.teachers}></Teacher>
         </div>

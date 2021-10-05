@@ -4,6 +4,7 @@ import Course from '../Course/Course';
 
 const Services = (props) => {
     const { datas } = props
+    console.log(datas)
     return (
         <Container className="my-5">
             <div className="text-center">
@@ -11,7 +12,7 @@ const Services = (props) => {
             </div>
             <Row xs={1} md={2} className="g-4 my-3">
                 {
-                    datas?.map(data =>
+                    datas.slice(0, 4)?.map(data =>
                         <Course
                             key={data.id} data={data}>
                         </Course>)

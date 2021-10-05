@@ -1,30 +1,4 @@
 {
-    "service": [
-        {
-            "id": "01",
-            "title": "Graphic Design",
-            "discription": "The main purpose here is to make you able to use the graphic design tools and techniques in a professional way. Graphic Design helps to build the brand identity of a company. Thus it needs to be conceptual and unique to represent a company, brand or any kind of products or services. The module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start afresh.",
-            "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg"
-        },
-        {
-            "id": "02",
-            "title": "3D Animation Design",
-            "discription": "Modeling is generating 3D objects in a certain scene. The next phase is done by positioning and animating. And the last phase, rendering, is the output of the completed result. The techniques used in 3D Animation involves appearance sketching, appearance modeling, arena building, camera setup, texturing, alteration, bonding, and rendering. Cinema 4D, Autodesk MAYA & Autodesk 3ds Max are the names of some of the best 3D animation software.",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSw5USBdskTrvimcD40B8p9finyvqVmlQBu192CpQ8jZpKpUv6eiC4phBQ6E0AkwkBXeE&usqp=CAU"
-        },
-        {
-            "id": "03",
-            "title": "Web Development",
-            "discription": "Web Development consists of two segments: front end development and backend development. Front-end Developers work with visual designs of a website and build the sites using code. The front end developer builds the structure of a website using HTML, then change the layout using CSS and sometimes uses javascript too. Besides Backend developers work with more advanced issues. They work with API (Application Programming Interfaces), CGI programs and sometimes script like PHP. Websites functionality is their main concern.",
-            "img": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg"
-        },
-        {
-            "id": "04",
-            "title": "App Development",
-            "discription": "With the world going mobile, the importance of apps is increasing day by day. App development hence refers to the creation of applications to be used on mobile devices. Today when we buy a smartphone or a tablet, we can see that it comes with some pre-installed apps for social media or searching or such other purposes. And if we can’t find what we are looking for, we just log on to the app store and download the things we need.",
-            "img": "https://image.freepik.com/free-vector/app-development-banner_33099-1720.jpg"
-        }
-    ],
     "serviceMain": [
         {
             "id": "01",
